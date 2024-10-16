@@ -12,8 +12,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Convert to BS",
-      "description": "Converts today's date to BS",
+      "title": "Convert to Nepali Date",
+      "description": "Converts today's date to Nepali date",
       "mode": "no-view"
     }
   ],
